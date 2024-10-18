@@ -1,2 +1,2 @@
 # RedWineRatingPrediction
-Using pipeline for Regression problem.
+Using pipeline for regression problem.
